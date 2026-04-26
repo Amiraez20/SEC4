@@ -48,4 +48,4 @@ La recherche globale dans le code décompilé a révélé des éléments de séc
 ---
 
 ## 💡 Conclusion
-[cite_start]Ce TP démontre qu'une application mal protégée livre facilement ses secrets (logique métier, clés, flags de debug) à travers une simple analyse statique[cite: 319, 320]. [cite_start]Pour sécuriser une application, il est impératif d'utiliser l'obfuscation et de ne jamais stocker de secrets en clair dans le code source[cite: 283, 320].
+Ce TP démontre qu'une application mal protégée livre facilement ses secrets (logique métier, clés, flags de debug) à travers une simple analyse statique. Pour sécuriser une application, il est impératif d'utiliser l'obfuscation et de ne jamais stocker de secrets en clair dans le code source.
